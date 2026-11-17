@@ -24,3 +24,9 @@ IMG_3751.PNG 與 IMG_3754.PNG 目前用作視覺與內容參考，未列入頁�
 
 ## 上線前
 設定 config.js 的正式網址，補上條款、隱私政策並移除其 noindex。正式售價以 App Store 為準，網站未寫入測試價格。
+
+## 2026-11-16 展示更新
+Hero 支援 iPhone／Duo 切換，預設 Duo；展開動畫有限次播放，可暫停與重播，支援減少動態效果。
+assets/demo/ 的 memories、footprints、cover 是 App 專案實際截圖；Fuji、Rail、Shrine 取自該專案既有的使用者旅行素材。
+Duo 裝置展開與自由編排使用網頁程式動畫示意，非實機操作影片。可展開的 Duo 編輯工具圖為 App 模擬器截圖。
+條款與隱私政策本次未更動。
