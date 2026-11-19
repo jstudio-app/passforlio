@@ -11,7 +11,7 @@
       link.rel = 'noopener noreferrer';
       if (key === 'appStore') {
         const label = link.querySelector('small');
-        if (label) label.textContent = '前往 App Store 下載';
+        if (label) label.textContent = '立即下載';
       }
     } else {
       link.addEventListener('click', event => {
